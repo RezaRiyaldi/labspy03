@@ -11,9 +11,9 @@ __Kelas : TI.20.A.2__
 ### Daftar Isi
 | No | ISI | Link | Source Code |
 | -- | --- | ---- | ----------- |
-| 1. | Latihan 1 | [lihat](https://github.com/RezaRiyaldi/labspy03/new/master?readme=1#latihan1) | [Code](https://github.com/RezaRiyaldi/labspy03/blob/master/latihan1.py) |
-| 2. | Latihan 2 | [lihat](https://github.com/RezaRiyaldi/labspy03/new/master?readme=1#latihan2) | [Code](https://github.com/RezaRiyaldi/labspy03/blob/master/latihan2.py) |
-| 3. | Program 1 | [lihat](https://github.com/RezaRiyaldi/labspy03/new/master?readme=1#program1) | [Code](https://github.com/RezaRiyaldi/labspy03/blob/master/latihan2.py) |
+| 1. | Latihan 1 | [lihat](https://github.com/RezaRiyaldi/labspy03/#latihan1) | [Code](https://github.com/RezaRiyaldi/labspy03/blob/master/latihan1.py) |
+| 2. | Latihan 2 | [lihat](https://github.com/RezaRiyaldi/labspy03/#latihan2) | [Code](https://github.com/RezaRiyaldi/labspy03/blob/master/latihan2.py) |
+| 3. | Program 1 | [lihat](https://github.com/RezaRiyaldi/labspy03/#program1) | [Code](https://github.com/RezaRiyaldi/labspy03/blob/master/latihan2.py) |
 
 ### Latihan1
 Konsep program :
